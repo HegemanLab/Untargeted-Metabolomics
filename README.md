@@ -8,4 +8,4 @@ Reads in a list of mzXML or mzML files as an XCMS Set object. Then either forms 
 * Run remainder of the script
 
 ## Hegeman Lab - University of Minnesota Twin-Cities
-This code was developed for use in the Hegeman Lab at the University of Minnesota Twin-Cities. If you use this script in your research, please don't forget to site us. Additionally, if there are any questions about how to use this code, feel free to contact [Adrian Hegeman](hegem007@umn.edu). 
+This code was developed for use in the Hegeman Lab at the University of Minnesota Twin-Cities. If you use this script in your research, please don't forget to acknowledge or cite publication. Additionally, if there are any questions about how to use this code, feel free to contact [Adrian Hegeman](mailto:hegem007@umn.edu). 
