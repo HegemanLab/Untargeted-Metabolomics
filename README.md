@@ -4,7 +4,7 @@ Reads in a list of mzXML or mzML files as an XCMS Set object. Then either forms 
 
 ## Usage
 * Load in functions and needed library. To do this run lines 1-20. 
-* Update files list  with new positive and/or negatie mode files, starting line 23. You will need to uncomment these sections of code. 
+* Update files list  with new positive and/or negative mode files, starting line 23. You will need to uncomment these sections of code. 
 * Run remainder of the script
 
 ## Hegeman Lab - University of Minnesota Twin-Cities
